@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108132035520",
+    "project_id": "wan-belleview",
+    "storage_bucket": "wan-belleview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108132035520:android:af809f4ea1c5ca230f7625",
+        "android_client_info": {
+          "package_name": "com.wan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108132035520-glibh0sbgorgup8qgscve5dmt72ljhmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiezVQ1mEM_o6pjf5c_Ra-xc8mJjBUH6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108132035520-glibh0sbgorgup8qgscve5dmt72ljhmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
